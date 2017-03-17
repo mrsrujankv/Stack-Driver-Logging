@@ -23,21 +23,21 @@ or else we can use different API to create sinks and export los to destination
 
 Create sinks
 
-```https://cloud.google.com/logging/docs/api/tasks/exporting-logs```
+[**create sinks**](https://cloud.google.com/logging/docs/api/tasks/exporting-logs)
 
 
 Exporting Logs to API
 
 Stackdriver Logging API v2 to export your logs out of Stackdriver Logging. To instead use the Logs Viewer to set up exports
 
-```https://cloud.google.com/logging/docs/api/tasks/exporting-logs#introduction_to_sinks```
+[**sinks**](https://cloud.google.com/logging/docs/api/tasks/exporting-logs#introduction_to_sinks)
 
 Also we can create sinks through command line for more documentation related to create sinks through command line are mentioned below.
 
-```https://cloud.google.com/logging/docs/reference/tools/gcloud-logging#writing_log_entries```
+[**Log Entries**](https://cloud.google.com/logging/docs/reference/tools/gcloud-logging#writing_log_entries)
 Use Stackdriver Monitoring with Google Compute Engine
-```https://cloud.google.com/monitoring/quickstart-lamp```
+[**Monitoring**] (https://cloud.google.com/monitoring/quickstart-lamp)
 
-For pricing related press this [link](https://cloud.google.com/stackdriver/pricing)
+For pricing related press this [**link**](https://cloud.google.com/stackdriver/pricing)
 
 
