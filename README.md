@@ -1,8 +1,5 @@
-# stack_driver
-Google Cloud stack driver logging
 
-Google Stack Driver
-
+</b>Google Stack Driver</b>
 Google Stackdriver provides powerful monitoring, logging, and diagnostics. It equips you with insight into the health, performance, and availability of cloud-powered applications, enabling you to find and fix issues faster. It is natively integrated with Google Cloud Platform, Amazon Web Services, and popular open source packages. Stackdriver provides a wide variety of metrics, dashboards, alerting, log management, reporting, and tracing capabilities.
 
 Below link shows how to read and create log entries into Stackdriver
